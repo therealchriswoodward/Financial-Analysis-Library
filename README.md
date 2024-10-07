@@ -33,3 +33,13 @@ It is built with OOP principles.
 * Multiple functions surrounding standard deviations
 
 ***
+
+# Examples
+
+You will find some example code at the bottom.
+
+***
+I may update this library to a new version in the future. I have more ideas for it. I'm just focused on getting a job in data analytics and haven't worked much on this lately.
+***
+
+Be sure and connect with me on LinkedIn! [LinkedIn](https://www.linkedin.com/in/christopher-woodward-b24b43316/)
